@@ -54,11 +54,7 @@ Conclusion "Symphony of the Stars" stands at the intersection of science, techno
 
 Support and Collaboration We are seeking support to further develop and enhance the platform, including funding for content creation, technical development, and educational partnerships. Join us in bringing the symphony of the stars to life and igniting a passion for the cosmos in children and youth worldwide.
 
-OUTPUT
-file:///Users/aryanchauhan/Desktop/Screenshot%202024-10-05%20at%209.34.34%E2%80%AFPM.png
-file:///Users/aryanchauhan/Desktop/Screenshot%202024-10-05%20at%209.35.38%E2%80%AFPM.png
-file:///Users/aryanchauhan/Desktop/Screenshot%202024-10-05%20at%209.34.34%E2%80%AFPM.png
-file:///Users/aryanchauhan/Desktop/Screenshot%202024-10-05%20at%209.36.11%E2%80%AFPM.png
+
 
 VIDEO LINK
 https://drive.google.com/file/d/16yc8DL7LyaGW0NTXmjKATo6gb27iFxcV/view?usp=sharing
