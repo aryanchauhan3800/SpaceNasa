@@ -5,8 +5,6 @@ Overview "Symphony of the Stars" is an innovative, immersive multimedia website 
 
 Key Features
 
-Interactive 3D Models and Orbits
-
 3D Planetary Visuals: Explore highly detailed, animated 3D models of planets, their moons, and satellites.
 Orbital Mechanics: Visualize and manipulate the orbits of celestial bodies to understand their movements and relationships.
 Distance Measurement: Instantly view distances between planets in astronomical units (AU) and light-years through intuitive searches or manual selection.
@@ -35,26 +33,29 @@ Virtual Exploration: Users can tap or search for planets to explore their moons,
 Dynamic Content: Experience the music and visuals reacting in real-time to user interactions, creating a personalized journey through the cosmos.
 Targeted for Children and Youth
 
-Engaging Interface: Bright colors, intuitive navigation, and playful animations make the website appealing and easy to use for younger audiences.
-Gamification Elements: Achievement badges and progress tracking encourage continuous engagement and learning.
-Unique Selling Points
+Installation and Setup
+Steps to Run the Project
+Clone the repository:
 
-Seamless Integration of Science and Art: Combines accurate astronomical data with artistic musical compositions and high-quality visuals to create an emotionally resonant learning experience.
-Interactivity and Personalization: Offers users the ability to interact with celestial models and influence their journey, making exploration both educational and entertaining.
-Educational and Inspirational: Designed to spark curiosity and passion for astronomy among children and youth, fostering the next generation of scientists and enthusiasts.
-Current Status The foundational 3D models and animations have been successfully created, showcasing the platform’s potential. The integration of JWST and Hubble images, alongside the initial musical compositions, has been implemented, providing a solid base for further development.
+git clone: https://github.com/aryanchauhan3800/SpaceNasa.git
 
-Next Steps
+Navigate to the project folder:
+cd NASA_SPACE_APP
 
-Expand Interactive Features: Enhance the chatbot capabilities and refine the comparative analysis tools.
-Develop Educational Content: Collaborate with educators and astronomers to enrich learning modules and quizzes.
-Optimize User Experience: Conduct user testing with the target audience to refine the interface and ensure accessibility across all devices.
-Launch and Promote: Prepare for the official launch with a strategic marketing plan targeting schools, educational institutions, and online communities.
-Conclusion "Symphony of the Stars" stands at the intersection of science, technology, and art, offering a unique platform that not only educates but also inspires young minds to explore the wonders of the universe. By harmonizing the latest discoveries from the James Webb Space Telescope with immersive music and interactive visuals, this project promises to make astronomy accessible and engaging for the next generation.
+Install the dependencies:
+npm install
 
-Support and Collaboration We are seeking support to further develop and enhance the platform, including funding for content creation, technical development, and educational partnerships. Join us in bringing the symphony of the stars to life and igniting a passion for the cosmos in children and youth worldwide.
+Run the development server:
+npm run dev
 
+The project will run at http://localhost:3000.
 
+Output:
+<img width="1463" alt="Screenshot 2024-10-05 at 9 34 25 PM" src="https://github.com/user-attachments/assets/f0511f51-7c6b-49e1-96b2-d56ddc1163e0">
+<img width="1463" alt="Screenshot 2024-10-05 at 9 34 34 PM" src="https://github.com/user-attachments/assets/c323e091-6db8-43ec-80ef-0ba055ed4468">
+<img width="1463" alt="Screenshot 2024-10-05 at 9 35 38 PM" src="https://github.com/user-attachments/assets/9af722b7-013a-4a19-80a8-09dc1079c449">
+<img width="1463" alt="Screenshot 2024-10-05 at 9 35 47 PM" src="https://github.com/user-attachments/assets/618b4e77-def6-4589-a8c2-2826cccc71a2">
+<img width="1463" alt="Screenshot 2024-10-05 at 9 35 57 PM" src="https://github.com/user-attachments/assets/7c91ec65-8b44-4e73-963a-150b9ee65bb4">
 
 VIDEO LINK
 https://drive.google.com/file/d/16yc8DL7LyaGW0NTXmjKATo6gb27iFxcV/view?usp=sharing
